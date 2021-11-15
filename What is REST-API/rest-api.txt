@@ -1,0 +1,13 @@
+					
+
+
+					REST-->REpresentational State Transfer
+================================================================================================================
+
+					API-->Application Programming Interface
+
+=================================================================================================================
+
+	What is REST-API ->IN genarel rest api is a way to commiunicate bettwing client and server.jemon amra ak website theke onno web site a data show korate pari,	
+	-------------------
+	 sekhetre amra view data gula json file akare ante pari.abar akoy data mobile aplication,tablet etc er jonno use korte pari.			
